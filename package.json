@@ -1,0 +1,23 @@
+{
+  "name": "com.ashty.3dplayermovement",
+  "version": "1.0.0",
+  "displayName": "3D Player Movement",
+  "description": "For Object Movement in an 3D Environment.",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {
+ },
+ "keywords": [
+    "Player",
+    "Movement",
+    "3D"
+  ],
+  "author": {
+    "name": "Amar Civic",
+    "email": "",
+    "url": ""
+  }
+}
